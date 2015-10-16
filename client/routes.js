@@ -1,3 +1,6 @@
+//' ELLO THERE!
+console.log('kasi is so cool');
+
 Router.route('/', function () {
   this.render('introLayout');
 });
